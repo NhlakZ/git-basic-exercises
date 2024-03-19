@@ -1,0 +1,420 @@
+    1  sudo apt-get install playonlinux
+    2  sudo apt-get install winbind
+    3  sudo apt update
+    4  sudo apt install pulseaudio
+    5  sudo apt install pavucontrol
+    6  sudo apt install
+    7  sudo apt install vlc
+    8  sudo gedit /usr/share/pulseaudio/alsa-mixer/paths/analog-output-speaker.conf
+    9  sudo apt install chrome
+   10  cd Downloads/
+   11  ls
+   12  sudo dpkg -\ google-chrome-stable_current_amd64(1).deb
+   13  sudo dpkg -i google-chrome-stable_current_amd64(1).deb
+   14  sudo dpkg -i google-chrome-stable_current-amd64.deb
+   15  ls
+   16  sudo dpkg -i google-chrome-stable_stable_current-amd64.deb
+   17  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   18  cd Downloads/
+   19  ls
+   20  sudo dpkg -i google-chrome-stable_current-amd64.deb
+   21  sudo dpkg -i google-chrome-stable_current_amd64\(1\).deb
+   22  sudo apt install -f
+   23  python3
+   24  sudo apt install ./<file>.deb
+   25  sudo dpkg -i <file>.deb
+   26  sudo apt-get install -f # Install dependencies
+   27  sudo apt-get install wget gpg
+   28  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+   29  sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+   30  sudo sh -c 'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" > /etc/apt/sources.list.d/vscode.list'
+   31  rm -f packages.microsoft.gpg
+   32  [200~sudo apt install apt-transport-https
+   33  ~sudo apt install apt-transport-https
+   34  sudo apt install apt-transport-https
+   35  sudo apt update
+   36  sudo apt install code
+   37  python3 Winning.py
+   38  ls
+   39  Downloads
+   40  ls Downloads
+   41  ls Documents
+   42  python3 Print("Winning")
+   43  python3 print("Winning")
+   44  python3 print(Winning)
+   45  python3 winning.py
+   46  ls Documents
+   47  python3 winning.py
+   48  /home/zuma/Documents
+   49  python3 winning.py
+   50  python3 /home/zuma/winning.py
+   51  python3 /home/zuma/Documents/winning.py
+   52  cd /home/zuma/Documents
+   53  python3 winning.py
+   54  pulseaudio
+   55  /var/run
+   56  pulseaudio.pid
+   57  /var/run/pulseaudio.pid
+   58  sudo apt install pulseaudio
+   59  sudo apt update pulseaudio
+   60  sudo apt update
+   61  sudo apt upgrade pulseaudio
+   62  pulseaudio
+   63  sudo apt update
+   64  sudo apt upgrade pusleaudio
+   65  sudo apt upgrade pulseaudio
+   66  sudo apt autoremove
+   67  pulseaudio
+   68  pulseaudio system logs
+   69  pulseaudio logs
+   70  sudo apt remove pulseaudio
+   71  sudo apt install pulseaudio
+   72  pulseaudio
+   73  alsamixer
+   74  PULSEaudio
+   75  pulseaudio
+   76  alsamixer
+   77  pulseaudio
+   78  alsamixer
+   79  sudo apt remove pulseaudio
+   80  sudo apt update
+   81  apt list
+   82  sudo apt install pulseaudio -y
+   83  sudo apt install pavucontrol -y
+   84  pulseaudio --version
+   85  sudo apt purge pulseaudio -y
+   86  sudo apt install PulseAudio -y
+   87  sudo apt install pulseaudio -y
+   88  sudo apt install pavucontrol -y
+   89  dconf reset -f /
+   90  pulseaudio -k
+   91  pulseaudio --check
+   92  pulseaudio --start
+   93  /var/log/syslog
+   94  sudo cat /var/log/syslog
+   95  alsamixer
+   96  /home/zuma
+   97  Alsamixer
+   98  alsamixer
+   99  pulseaudio
+  100  sudo apt purge pulseaudio -y
+  101  sudo apt install pulseaudio -y
+  102  sudo apt update
+  103  apt list --upgradable
+  104  sudo apt install pavucontrol -y
+  105  pulseaudio --version
+  106  pulseaudio
+  107  alsamixer
+  108  pulseaudio -k && sudo alsa force-reload
+  109  pulseaudio -k && sudo force-reload
+  110  cd main.c
+  111  cd pulseaudio
+  112  pulseaudio --start
+  113  pulseaudio -k
+  114  pulseaudio --start
+  115  alsamixer
+  116  ls -lrh
+  117  pwd
+  118  ls
+  119  ls /data
+  120  ls /etc/perl
+  121  ls /
+  122  pwd
+  123  ls /data
+  124  mkdir learning_linux
+  125  ls
+  126  cd learning_linux
+  127  mkdir Outer_directory
+  128  cd Outer_directory
+  129  mkdir Inner_directory
+  130  cd Inner_directory/
+  131  cd /
+  132  cd ubuntu
+  133  cd /home/ubuntu/
+  134  cd /home/zuma
+  135  cd /home/zuma/
+  136  cd home/zuma/
+  137  cd learning_linux
+  138  cd Outer_directory
+  139  cd /learning_linux
+  140  cd /learning_linux/
+  141  cd /home/learning_linux
+  142  cd /learning_linux/home
+  143  cd /home/learning_linux/
+  144  cd /home/zuma/learning_linex
+  145  cd /home/zuma/learning_linux
+  146  cd home
+  147  cd ..
+  148  cd learning_linux
+  149  cd Outer_directory
+  150  cd ..
+  151  cd ../..
+  152  cd ..
+  153  cd learning_linux
+  154  cd /home/zuma/
+  155  cd learning_linux
+  156  cd..
+  157  pwd
+  158  cd /
+  159  cd home
+  160  cd ..
+  161  pwd
+  162  cd ~
+  163  pwd
+  164  cd
+  165  wd
+  166  pwd
+  167  cd /
+  168  cd ~learning_linux
+  169  cd ~
+  170  cd /
+  171  cd ~/learning_linux
+  172  cd ~/Outer_directory
+  173  cd ~/learning_linux/Outer-directory/
+  174  cd ~/learning_linux/Outer_directory/
+  175  ls ../../
+  176  cd ..
+  177  ls -l /home
+  178  man cd
+  179  cd man
+  180  cd ..
+  181  man cd
+  182  man ls
+  183  apt-get install git
+  184  cd /
+  185  apt-get install git
+  186  ~
+  187  cd ~
+  188  add-apt-repository ppa: git-core/ppa
+  189  cd /
+  190  add-apt-repository ppa: git-core/ppa
+  191  cd~
+  192  cd ~
+  193  sudo apt-get install git
+  194  alsamixer
+  195  sudo apt update
+  196  'cd'+'L'+t'tab'
+  197  'cd'+'L'+'tab'
+  198  alsamixer
+  199  pip install -r requirements.text
+  200  sudo apt install python3-pip
+  201  pip install -r requirements.txt
+  202  pwd
+  203  cd /home/zuma/Documents
+  204  requirements.txt
+  205  pwd
+  206  cd /home/zuma/Documents/requirements.txt
+  207  cd requirements.txt
+  208  cd ..
+  209  cd /home/zuma/Documents/
+  210  pip install -r requirements.txt
+  211  pip list
+  212  pip freeze > requirements2.txt
+  213  cd ..
+  214  pwd
+  215  /home/zuma/Downloads
+  216  /home/zuma/Downloads/
+  217  pwd
+  218  /home/zuma/Downloads
+  219  cd /home/zuma/Downloads
+  220  mkdir data
+  221  mv data.csv data/
+  222  git add data/data.csv
+  223  cd https://github.com/Umuzi-org/Nhlakanipho-Zuma-648-bootcamp-exploratory-data-analysis-python
+  224  git clone https://github.com/Umuzi-org/Nhlakanipho-Zuma-648-bootcamp-exploratory-data-analysis-python
+  225  https://github.com/Umuzi-org/Nhlakanipho-Zuma-648-bootcamp-exploratory-data-analysis-python
+  226  git clone https://github.com/Umuzi-org/Nhlakanipho-Zuma-648-bootcamp-exploratory-data-analysis-python
+  227  git clone https://NhlakZ:<your_personal_access_token>@github.com/Umuzi-org/Nhlakanipho-Zuma-648-bootcamp-exploratory-data-analysis-python.git
+  228  alsamixer
+  229  git init
+  230  git add data/data.csv
+  231  git commit -m
+  232  git commit -m "Initial commit"
+  233  git config --global user.email "3686251@myuwc.ac.za"
+  234  git config --global user.name "NhlakZ"
+  235  git commit -m "Initial commit"
+  236  git push Exploratory-data-analysis
+  237  git push [200~https://github.com/Umuzi-org/Nhlakanipho-Zuma-648-bootcamp-exploratory-data-analysis-python/tree/Exploratory-data-analysis~
+  238  git push https://github.com/Umuzi-org/Nhlakanipho-Zuma-648-bootcamp-exploratory-data-analysis-python/tree/Exploratory-data-analysis~
+  239  git remote add origin https://github.com/Umuzi-org/Nhlakanipho-Zuma-648-bootcamp-exploratory-data-analysis-python.git
+  240  git push -u origin Exploratory-data-analysis
+  241  git branch
+  242  alsamixer
+  243  pip install "black[jupyter]"
+  244  alsamixer
+  245  black Exploratory_data_analysis.ipynb
+  246  sudo apt install black
+  247  black Exploratory_data_analysis.ipynb
+  248  pwd
+  249  black /home/zuma/Downloads/Exploratory_data_analysis.ipynb
+  250  python -m black Exploratory_data_analysis.ipynb
+  251  python3 -m black Exploratory_data_analysis.ipynb
+  252  python3 -m black Exploratory_data_analysis
+  253  black
+  254  black code
+  255  pwd
+  256  black /home/zuma/Downloads/Exploratory_data_analysis
+  257  cd Downloads
+  258  pwd
+  259  black Exploratory_data_analysis .ipynb
+  260  black -h
+  261  black --ipynb
+  262  black Exploratory_data_analysis --ipynb
+  263  black Exploratory_data_analysis\ .ipynb 
+  264  sudo apt install jupyter
+  265  jupyter
+  266  cd Documents
+  267  task1.py
+  268  ls
+  269  ls -l task1.py
+  270  ./task1.py
+  271  chmod +x task1.py
+  272  ./task1.py
+  273  task1.py
+  274  alsamixer
+  275  cd Documents
+  276  task1.py
+  277  ./task1.py
+  278  cd Documents
+  279  task1.py
+  280  ./task1.py
+  281  python3 task1.py
+  282  python3 task1
+  283  cd Documents
+  284  python3 task1
+  285  python3 task1.py
+  286  alsamixer
+  287  cd Documents
+  288  python3 divisible_six.py
+  289  cd Documents
+  290  python3 task3.py
+  291  cd Documents
+  292  python3 task2.py
+  293  cd Documents
+  294  python3 task1.py
+  295  cd Documents
+  296  python3 task4.py
+  297  cd Documents
+  298  python3 task5.py
+  299  python3 task4.py
+  300  python3 task5.py
+  301  cd Documents
+  302  python3 task7
+  303  python3 task7.py
+  304  cd Documents
+  305  python3 task8.py
+  306  cd Documents
+  307  python3 task8.py
+  308  cd Documents
+  309  python3 task10.py
+  310  cd Documents
+  311  python3 task9.py
+  312  cd Documents
+  313  python3 task10.py
+  314  cd Documents
+  315  mkdir coding_challengies
+  316  cd coding_challengies
+  317  cd Documents/coding_challengies
+  318  python3 task_2.py
+  319  python3 task_2.p
+  320  python3 task_2.py
+  321  python3 task10.py
+  322  cd ..
+  323  python3 task10.py
+  324  cd Documents/coding_challengies
+  325  python3 task_1.py
+  326  mkdir Documents/git-basic-exercises
+  327  cd Documents
+  328  mkdir git-basic-exercises
+  329  cd git-basic-exercises
+  330  ls -a
+  331  git init
+  332  ls -a
+  333  git status
+  334  touch README.md
+  335  ls -a
+  336  git status
+  337  git add
+  338  git add README.md
+  339  git log
+  340  git status
+  341  cd Documents
+  342  python3 task10.py
+  343  cd Documents/git-basic-exercises
+  344  git status
+  345  git reset HEAD -- README.md
+  346  git status
+  347  git rm --cached README.md
+  348  git rm --cached README.md...
+  349  git status
+  350  git add README.md
+  351  git status
+  352  git coomit -m "initial commit"
+  353  git commit -m "initial commit"
+  354  git log
+  355  q
+  356  sudo snap install q
+  357  nano README.md
+  358  cat README.md
+  359  git status
+  360  git commit -m "second commit"
+  361  git add README.md
+  362  git commit -m "second commit"
+  363  git log
+  364  nano README.md
+  365  cat READM.md
+  366  cat README.md
+  367  git status
+  368  git commit -m "third commit"
+  369  git add README.md
+  370  git commit -m "third commit"
+  371  git log
+  372  git checkout
+  373  git checkout 469a7ad0af22730e682ae5c48bf9e6010ef0914a
+  374  cat README.md
+  375  git checkout main
+  376  git checkout master
+  377  cat README.MD
+  378  cat README.md
+  379  git branch
+  380  git branch milkshake-flavours
+  381  git branch
+  382  git checkout milkshake-flavours
+  383  git branch
+  384  nano milkshake.md
+  385  cat milkshake.md
+  386  git add milkshake.md
+  387  git commit -m milkshake.md
+  388  git log
+  389  git rm -- cached milkshake.md
+  390  git reset HEAD -- milkshake.md
+  391  git status
+  392  git branch -d milkshake.md
+  393  git branch -d milkshake-flavours
+  394  git commit -m "added initial flavours"
+  395  git status
+  396  git add milkshake.md
+  397  git commit -m "added initial flavours"
+  398  git log
+  399  git checkout master
+  400  git status
+  401  git branch
+  402  git branch -d milkshake-flavours
+  403  git branch -D milkshake-flavours 
+  404  git branch milkshake-flavours
+  405  git branch
+  406  git checkout milkshake-flavours 
+  407  git branch
+  408  nano milkshake.md
+  409  git status
+  410  cat milkshake.md 
+  411  git add milkshake.md 
+  412  git commit -m "added initial flavours"
+  413  git log
+  414  git checkout master
+  415  git branch
+  416  git branch history
+  417  git checkout history
+  418  git branch
+  419  git log
+  420  history> history.txt
